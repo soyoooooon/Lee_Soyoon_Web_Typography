@@ -1,0 +1,249 @@
+
+#f1{font-family:'PT Sans Narrow', sans-serif;}
+#f2{font-family: 'PT Sans', sans-serif;}
+#f3{font-family: 'JosefinSlab-SemiBold'; src: url('JosefinSlab-SemiBold.ttf');}
+
+main
+{
+width: 1200px;
+margin: 0 auto;
+}
+
+/* header banner */
+
+
+header {
+background-image: url(../images/background.jpg);
+background-repeat: no-repeat;
+width: 1200px;
+height: 380px;
+}
+
+
+/* typography */
+
+h1
+{
+color: white;
+font-size : 43px;
+padding-top: 300px;
+padding-left: 300px;
+}
+
+h2
+{
+font-weight: 300;
+font-size: 24px; 
+color: #075F37;
+letter-spacing: 1px;
+line-height: 35px;
+margin-left: 75px;
+margin-top: 15px;
+margin-bottom: 30px;
+}
+
+.bigI
+{
+font-size: 40px;
+font-weight: 400;
+line-height: 50px;
+}
+
+
+p
+{
+font-size: 19px;
+padding-top: 20px;
+margin-left: 75px;
+margin-right: 75px;
+line-height: 23px;
+color: #394841;  
+}
+
+.traa-span
+{
+font-size: 40px;
+font-weight: 400;
+line-height: 50px;
+}
+
+.wedo
+{
+font-family: 'JosefinSlab-SemiBold'; src: url('JosefinSlab-SemiBold.ttf');
+color: #49705E;
+font-size: 30px;
+margin-top: 100px;
+margin-left: 75px;
+}
+
+
+
+
+
+
+#container1
+{
+display: flex;
+flex-direction: row;
+margin-left: 100px;
+margin-top: 50px;
+}
+
+
+
+
+
+
+.img1
+{
+padding-right: 25px;
+width: 300px;
+height: 300px;
+}
+
+
+.pro
+{
+color: white;
+font-family:'PT Sans Narrow', sans-serif;
+font-size: 40px;
+margin-top: -170px;
+margin-left: 90px;
+}
+
+
+
+/****image2 *****/
+
+
+
+
+.img2
+{
+padding-right: 25px;
+width: 300px;
+height: 300px;
+}
+
+.enhance
+{
+color: white;
+font-family:'PT Sans Narrow', sans-serif;
+font-size: 40px;
+margin-top: -170px;
+margin-left: 90px;
+}
+
+
+/*****image3 *****/
+
+
+
+.img3
+{
+padding-right: 25px;
+width: 300px;
+height: 300px;
+}
+
+
+.viable
+{
+color: white;
+font-family:'PT Sans Narrow', sans-serif;
+font-size: 40px;
+margin-top: -170px;
+margin-left: 17px;
+text-align: center;
+}
+
+
+
+
+
+
+#container2
+{
+display: flex;
+flex-direction: row;
+margin-left: 100px;
+margin-top: 25px;
+}
+
+/******images 4*******/
+
+.img4
+{
+padding-right: 25px;
+width: 300px;
+height: 300px;
+}
+
+
+.multi
+{
+color: white;
+font-family:'PT Sans Narrow', sans-serif;
+font-size: 40px;
+margin-top: -170px;
+margin-left: 50px;
+}
+
+/********image5*******/
+
+
+.img5
+{
+padding-right: 25px;
+width: 300px;
+height: 300px;
+}
+
+.fishery
+{
+color: white;
+font-family:'PT Sans Narrow', sans-serif;
+font-size: 40px;
+margin-top: -170px;
+margin-left: 20px;
+text-align: center;
+}
+
+/********image6*********/
+
+
+.img6
+{
+padding-right: 25px;
+width: 300px;
+height: 300px;
+}
+
+.clean
+{
+color: white;
+font-family:'PT Sans Narrow', sans-serif;
+font-size: 40px;
+margin-top: -170px;
+margin-left: 20px;
+text-align: center;
+}
+
+
+/*********section ends*************/
+.rainbow
+{
+font-family: 'PT Sans', sans-serif;
+font-size: 20px;
+margin-top: 30px;
+margin-left: 75px;
+margin-right: 75px;
+line-height: 40px;
+margin-bottom: 100px;
+}
+
+.trout
+{
+font-size: 28px;
+color: #FF5733;
+}
